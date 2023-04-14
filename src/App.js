@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import { useState, useEffect } from 'react';
-import { Map, GoogleApiWrapper, Marker  } from 'google-maps-react';
 
 const mapStyles = {
   width: '100%',
